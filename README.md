@@ -1,8 +1,8 @@
-# A counter on Secret Network
+Secret Network
 
 An example of a smart contract development on Secret Network
 
-## Development
+For Development :  
 
 Follow the instruction to spin up the local dev environment:
 
